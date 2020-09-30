@@ -108,8 +108,3 @@ def wbsearchentities(
     )
     if response.status_code == 200:
         return response.json()
-
-if __name__ == '__main__':
-    qid = 'Q753297' # discovery
-    r = wbgetentities(qid, sitefilter=['enwiki', 'dewiki']) # include only English and German Wikipedia sitelinks
-    r['entities'][qid]['sitelinks']
