@@ -10,6 +10,7 @@ Currently only the following API modules are implemented:
 * [`qwikidata`](https://pypi.org/project/qwikidata/)
 * [`wptools`](https://pypi.org/project/wptools/)
 * [Wikidata SPARQL Query Service](https://query.wikidata.org/)
+* [Wikidata JSON dumps](https://www.wikidata.org/wiki/Wikidata:Database_download#JSON_dumps_(recommended))
 
 ## Setup
 ```bash
