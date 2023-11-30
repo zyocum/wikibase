@@ -12,7 +12,7 @@ idna==2.10
 isodate==0.6.0
 jdcal==1.4.1
 leather==0.3.3
-mypy-extensions==0.4.3
+mypy-extensions==1.0.0
 openpyxl==3.0.5
 parsedatetime==2.6
 python-slugify==4.0.1
