@@ -9,7 +9,7 @@ csvkit==1.0.5
 dbfread==2.0.7
 et-xmlfile==1.0.1
 idna==2.10
-isodate==0.6.0
+isodate==0.6.1
 jdcal==1.4.1
 leather==0.3.3
 mypy-extensions==1.0.0
