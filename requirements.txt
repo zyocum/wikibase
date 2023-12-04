@@ -11,7 +11,7 @@ et-xmlfile==1.0.1
 idna==2.10
 isodate==0.6.0
 jdcal==1.4.1
-leather==0.3.3
+leather==0.3.4
 mypy-extensions==1.0.0
 openpyxl==3.0.5
 parsedatetime==2.6
