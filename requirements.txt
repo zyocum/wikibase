@@ -1,6 +1,6 @@
 agate==1.9.0
 agate-dbf==0.2.2
-agate-excel==0.2.3
+agate-excel==0.4.1
 agate-sql==0.7.0
 Babel==2.13.1
 certifi==2023.11.17
