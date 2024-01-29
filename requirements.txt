@@ -17,7 +17,7 @@ openpyxl==3.1.2
 parsedatetime==2.6
 python-slugify==8.0.1
 pytimeparse==1.1.8
-pytz==2020.1
+pytz==2023.4
 qwikidata==0.4.2
 requests==2.24.0
 six==1.16.0
